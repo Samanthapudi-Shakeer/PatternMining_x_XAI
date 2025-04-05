@@ -22,16 +22,7 @@ const Video = () => {
         </p>
         <p> .......................</p>
         <p className="text-gray-600 leading-relaxed mb-6"> Blog Explanation
-          <iframe
-            width="750"
-            height="315"
-            src="https://youtu.be/2JT07Ur2p3Q"
-            title="YouTube video player"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerPolicy="strict-origin-when-cross-origin"
-            allowFullScreen
-          ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2JT07Ur2p3Q?si=xUqx-GCQNbTqR4y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </p>
       </div>
     </PageLayout>
