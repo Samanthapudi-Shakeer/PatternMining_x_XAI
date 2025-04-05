@@ -20,6 +20,7 @@ const Video = () => {
             The Intersection of Pattern Mining & Explainable AI
           </a>
         </p>
+        <p> .......................</p>
         <p className="text-gray-600 leading-relaxed mb-6">
           <iframe
             width="750"
