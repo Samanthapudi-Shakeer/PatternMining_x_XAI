@@ -9,6 +9,17 @@ const Video = () => {
       icon={<VideoIcon />}
     >
       <div className="prose max-w-none">
+                <p className="text-gray-700">
+          📖 Read the detailed blog on Medium:{" "}
+          <a
+            href="https://medium.com/@shakeer.samanthapudi/the-intersection-of-pattern-mining-explainable-ai-ff11e9eb2608"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 underline hover:text-blue-800"
+          >
+            The Intersection of Pattern Mining & Explainable AI
+          </a>
+        </p>
         <p className="text-gray-600 leading-relaxed mb-6">
           <iframe
             width="750"
@@ -20,17 +31,6 @@ const Video = () => {
             referrerPolicy="strict-origin-when-cross-origin"
             allowFullScreen
           ></iframe>
-        </p>
-        <p className="text-gray-700">
-          📖 Read the detailed blog on Medium:{" "}
-          <a
-            href="https://medium.com/@shakeer.samanthapudi/the-intersection-of-pattern-mining-explainable-ai-ff11e9eb2608"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-600 underline hover:text-blue-800"
-          >
-            The Intersection of Pattern Mining & Explainable AI
-          </a>
         </p>
       </div>
     </PageLayout>
