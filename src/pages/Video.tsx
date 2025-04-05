@@ -20,9 +20,13 @@ const Video = () => {
             The Intersection of Pattern Mining & Explainable AI
           </a>
         </p>
-        <p> .......................</p>
-        <p className="text-gray-600 leading-relaxed mb-6"> Blog Explanation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2JT07Ur2p3Q?si=xUqx-GCQNbTqR4y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p> ...........................................................................................</p>
+        <p className="text-gray-600 leading-relaxed mb-6"> Blog Explanation Youtube Video Embedding - Shakeer
+<iframe width="750" height="315" src="https://www.youtube.com/embed/2JT07Ur2p3Q?si=xUqx-GCQNbTqR4y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </p>
+        <p> ...........................................................................................</p>
+        <p className="text-gray-600 leading-relaxed mb-6"> Web Page Explanation Youtube Video Embedding - Shakeer
+<iframe width="750" height="315" src="https://www.youtube.com/embed/W4R1nVyo5Rg?si=lvWoMlucsD2KISBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </p>
       </div>
     </PageLayout>
